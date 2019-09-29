@@ -22,6 +22,8 @@ void urandtwo(int *, int *, int);
 int usum(int *, int);
 void arrToFile(char *, int *, int);
 void showfile(char *);
+void showFileStartL(char *, int);
+void arrToFileStartL(char *, int *, int , int);
 //func2.c
 struct arg operater(int *, int);
 //func3.c
