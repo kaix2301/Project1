@@ -1,6 +1,6 @@
 #include "uhead.h"
 
-//one rand arr
+//one rand arr//
 void urandone(int *a, int n){
 	int i;
 	srand((int)time(0));
